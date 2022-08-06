@@ -1,0 +1,1 @@
+# fivem_lua_resource_boilerplate
