@@ -1,14 +1,14 @@
 {
   "folders": [
     {
-      "path": "./resources"
+      "path": "./source"
     }
   ],
-
+  "files": [],
   "settings": {
     "Lua.diagnostics.enable": true,
     "Lua.runtime.nonstandardSymbol": ["/**/", "`", "+=", "-=", "*=", "/="],
-    "Lua.runtime.plugin": "../plugin.lua",
+    "Lua.runtime.plugin": "../library_plugin.lua",
     "Lua.runtime.version": "Lua 5.4",
     "Lua.completion.autoRequire": false,
     "Lua.IntelliSense.traceBeSetted": true,
